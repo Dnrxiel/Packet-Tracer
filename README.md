@@ -1,4 +1,4 @@
-# Cisco Packet Tracer Enterprise Network
+# Multi-Site Enterprise Network Design & Simulation
 
 A multi-site enterprise network designed and implemented in **Cisco Packet Tracer** as part of my **ICT Practical Engineering** final project.
 
