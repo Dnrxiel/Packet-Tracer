@@ -1,4 +1,5 @@
 # Multi-Site Enterprise Network Design & Simulation
+<img width="1850" height="686" alt="Screenshot 2026-10-13 225915" src="https://github.com/user-attachments/assets/9274e135-45f7-4b44-8e6b-f9a24b002954" />
 
 A multi-site enterprise network designed and implemented in **Cisco Packet Tracer** as part of my **ICT Practical Engineering** final project.
 
